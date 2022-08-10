@@ -2,4 +2,4 @@
 
 ## Descripción
 
-Práctica: My Store. Curso Consumo de APIS REST
+Práctica: My Store. Curso Consumo de APIs REST
